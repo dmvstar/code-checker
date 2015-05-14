@@ -31,6 +31,8 @@
     <string name="about_author_info">Author:</string>
     <string name="about_author_name" translatable="false">dmvstar</string>
     <string name="donate_info">Donate pleas ...</string>
-
+    <string name="about_author_site">Site:</string>
+    <string name="about_author_site_url">https://github.com/dmvstar/code-checker</string>
+    <string name="about_author_site_url1"><a href="https://github.com/dmvstar/code-checker">code-checker on GitHub</a></string>
 
 </resources>

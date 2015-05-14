@@ -199,6 +199,9 @@ public class CodeCheckActivity extends ActionBarActivity implements ISwipeCallba
     }
 
 
+    /**
+     * Scan barcode using ZXingScannerView
+     */
     private void showBarcodeScan() {
         Intent intent = new Intent(this, SimpleScannerActivity.class);
         this.startActivityForResult(intent, 100);

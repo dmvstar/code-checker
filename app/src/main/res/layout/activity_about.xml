@@ -52,7 +52,7 @@
                 android:paddingLeft="4dp"
                 android:text="@string/app_name"
                 android:textAppearance="?android:attr/textAppearanceLarge"
-                android:textColor="@android:color/holo_blue_bright" />
+                android:textColor="@android:color/holo_orange_light" />
 
         </LinearLayout>
 
@@ -102,11 +102,30 @@
                 android:id="@+id/lbAuthorName"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:autoLink="email"
                 android:paddingLeft="20dp"
                 android:text="@string/about_author_name"
                 android:textAppearance="?android:attr/textAppearanceMedium"
                 android:textColor="@android:color/holo_blue_bright" />
+
+            <TextView
+                android:id="@+id/lbAuthorSiteLabel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingLeft="4dp"
+                android:text="@string/about_author_site"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@android:color/holo_blue_bright" />
+
+            <TextView
+                android:id="@+id/lbAuthorSiteUrl"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:paddingLeft="20dp"
+                android:linksClickable="true"
+                android:text="@string/about_author_site_url"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@android:color/holo_green_light" />
 
         </LinearLayout>
 
