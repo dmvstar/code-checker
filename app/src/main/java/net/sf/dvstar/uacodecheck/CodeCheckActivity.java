@@ -173,7 +173,6 @@ public class CodeCheckActivity extends ActionBarActivity implements ISwipeCallba
         }
     }
 
-
     public void onCalculateClick(View view){
         int position = mSpinnerCodeType.getSelectedItemPosition();
         switch(position) {
