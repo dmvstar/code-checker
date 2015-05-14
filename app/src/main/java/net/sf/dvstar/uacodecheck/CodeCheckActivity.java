@@ -387,7 +387,7 @@ public class CodeCheckActivity extends ActionBarActivity implements ISwipeCallba
     @Override
     public void onSwipeRight() {
         mCurrentViewFlipperChild--;
-        if(mCurrentViewFlipperChild <= 0){
+        if(mCurrentViewFlipperChild < 0){
             mCurrentViewFlipperChild = mCurrentViewFlipperMax-1;
         }
         mSpinnerCodeType.setSelection(mCurrentViewFlipperChild);
