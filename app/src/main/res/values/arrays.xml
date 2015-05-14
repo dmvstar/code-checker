@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string-array name="list_gender">
+		<item>Male</item>
+		<item>Female</item>
+	</string-array>
+
+	<string-array name="list_codes">
+		<item>TIC (Tax Identity Number)</item>
+		<item>MFO (Bank code)</item>
+		<item>ACC (Bank Account)</item>
+		<item>SRC (State registration code)</item>
+		<item>EAN (Barcode identifier)</item>
+	</string-array>
+
+
+	<string-array name="ean_country_list_add">
+		<item>93|au|Australia|EAN Australia</item>
+		<item>90+91|at|Austria|EAN Austria</item>
+		<item>476|az|Aserbeidjan|EAN Azerbaijan</item>
+		<item>613|dz|Algeria|EAN Algeria</item>
+		<item>779|ar|Argentina|CODIGO - EAN Argentina</item>
+		<item>485|am|Armenien|EAN Armenia</item>
+		<item>608|bh|Bahrein|Bahrein</item>
+		<item>481|by|Belorussia|EAN Belarus</item>
+		<item>54|be|Belgium and Luxembourg|ICODIF/EAN Belgium.Luxembourg</item>
+		<item>380|bg|Bulgaria|BCCI (Bulgaria)</item>
+		<item>777|bo|Bolivia|EAN Bolivia</item>
+		<item>387|ba|Bosnia-Herzegowina|EAN-BIH (Bosnia-Herzegovina)</item>
+		<item>789|br|Brazil|EAN Brazil</item>
+		<item>978+979|zz|Bucher (ISBN)|Bucher (ISBN)</item>
+		<item>980-990|zz|voucher codes|voucher codes</item>
+		<item>50|gb|Great Britain|E Centre UK</item>
+		<item>599|hu|Hungary|EAN Hungary</item>
+		<item>759|ve|Venezuelas|EAN Venezuela</item>
+		<item>20-29|xx|Internal use|Internal use</item>
+		<item>893|vn|Vietnam|EAN Vietnam</item>
+		<item>740|gt|Central America (Guatemala, el Salvador, Honduras, Nicaragua, Costa Rica, Panama)|EAN Guatemala</item>
+		<item>400-440|de|Germany|CCG (Germany)</item>
+		<item>742|hn||EAN Honduras</item>
+		<item>489|hk|Hong Kong|HKANA (Hong Kong)</item>
+		<item>520|gr|Greece|HELLCAN - EAN HELLAS (Greece)</item>
+		<item>486|ge|Georgien|EAN Georgia</item>
+		<item>57|dk|Denmark|EAN Danmark</item>
+		<item>746|do|Dominican Republic|EAN Republica Dominicana</item>
+		<item>622|eg|Egypt|EAN Egypt</item>
+		<item>729|il|Israels|Israeli Bar Code Association - EAN Israel</item>
+		<item>890|in|India|EAN India</item>
+		<item>899|id|Indonesia|EAN Indonesia</item>
+		<item>625|jo|Jordan|EAN Jordan</item>
+		<item>626|iq|Irans|EAN Iran</item>
+		<item>539|ir|Ireland|EAN Ireland</item>
+		<item>569|is|Iceland|EAN Iceland</item>
+		<item>84|es|Spain|AECOC (Spain)</item>
+		<item>80-83|it|Italy|INDICOD (Italy)</item>
+		<item>487|kz|Kazakhstans|EAN Kazakhstan</item>
+		<item>616|ke|Kenya|EAN Kenya</item>
+		<item>529|cy|Cyprus|EAN Cyprus</item>
+		<item>690-693|cn|China|Article Numbering Centre of China - ANCC (China)</item>
+		<item>979|zz|Books (ISBN)|</item>
+		<item>770|co|Colombia|IAC (Colombia)</item>
+		<item>744|cr||EAN Costa Rica</item>
+		<item>850|cu|Cuba|Camera de Comercio de la Republica de Cuba (Cuba)</item>
+		<item>627|kw|Kuwait|EAN Kuwait</item>
+		<item>475|lv|Latvia|EAN Latvia</item>
+		<item>528|lb|Lebanons|EAN Lebanon</item>
+		<item>624|ly|Libya|EAN Libya</item>
+		<item>477|lt|Lithuania|EAN Lithuania</item>
+		<item>609|mu|Mauritius|EAN Mauritius</item>
+		<item>977||Magazines (ISSN)|</item>
+		<item>958|mo|Makao|EAN Macau</item>
+		<item>531|mk|Macedonians|EAN-MAC (FYR Macedonia)</item>
+		<item>955|my|Malaysia|Malaysian Article Numbering Council (MANC)</item>
+		<item>535|mt|Maltas|EAN Malta</item>
+		<item>611|ma|Morocco|EAN Maroc (Marocco)</item>
+		<item>750|mx|Mexico|AMECE (Mexico)</item>
+		<item>484|md|Moldawien|EAN Moldova</item>
+		<item>87|nl|Netherlands|EAN Nederland (Netherlands)</item>
+		<item>743|ni||EAN Nikaragua</item>
+		<item>94|nz|New Zealand|EAN New Zealand</item>
+		<item>70|no|Norway|EAN Norge (Norway)</item>
+		<item>629|ae|United Arab Emirates|EAN Emirates</item>
+		<item>745|pa||EAN Panama</item>
+		<item>784|py|Paraguay|EAN Paraguay</item>
+		<item>775|pe|Peru|EAN Peru</item>
+		<item>590|pl|Poland|EAN Poland</item>
+		<item>560|pt|Portugal|CODIPOR (Portugal)</item>
+		<item>460-469|ru|Russia|UNISCAN / EAN RUSSIA (Russian Federation)</item>
+		<item>594|ro|Rumania|EAN Romania</item>
+		<item>741|sv||EAN El Salvador</item>
+		<item>628|sa|Saudi-Arabien|EAN Saudi Arabia</item>
+		<item>867|kr|Nord-Korea|EAN DPR Korea (North Korea)</item>
+		<item>888|sg|Singapore|SANC (Singapore)</item>
+		<item>621|sy|Syria|EAN Syria</item>
+		<item>858|sk|Slovakia|EAN Slovakia</item>
+		<item>383|si|Slovenia|EAN Slovenia</item>
+		<item>00-13|us|USA and Canada|UCC (U.S.A. - Canada)</item>
+		<item>471|tw|Taiwan|EAN Taiwan</item>
+		<item>885|th|Thailand|EAN Thailand</item>
+		<item>619|tn|Tunisia|TUNICODE (Tunisia)</item>
+		<item>869|tr|Turkey|Union of Chambers of Commerce of Turkey (Turkey)</item>
+		<item>478|uz|Usbekistan|EAN Uzbekistan</item>
+		<item>482|ua|Ukraine|EAN Ukraine</item>
+		<item>773|uy|Uruguay|EAN Uruguay</item>
+		<item>480|ph|Philippines|PANC (Philippines)</item>
+		<item>64|fi|Finland|EAN Finland</item>
+		<item>30-37|fr|France|GENCOD-EAN France</item>
+		<item>385|hr|Croatia|EAN Croatia</item>
+		<item>859|cz|Czech Republic|EAN Czech</item>
+		<item>780|cl|Chile|EAN Chile</item>
+		<item>76|ch|Switzerland and Liechtenstein|EAN (Schweiz, Suisse, Svizzera)</item>
+		<item>73|se|Sweden|EAN Sweden</item>
+		<item>479|lk|Sri Lanka|EAN Sri Lanka</item>
+		<item>786|ec|Ecuador|ECOP (Ecuador)</item>
+		<item>474|ee|Estonia|EAN Eesti (Estonia)</item>
+		<item>860|yu|Yugoslavia|EAN YU (Yugoslavia)</item>
+		<item>600+601|za|South Africa|EAN South Africa</item>
+		<item>880|kr|South Korea|EAN Korea (South Korea)</item>
+		<item>45-49|jp|Japan|Distribution Code Center - DCC (Japan)</item>
+	</string-array>
+
+
+	<string-array name="ean_country_list">
+
+
+		<item>00-13|USA and Canada</item>
+		<item>20-29|internal use</item>
+		<item>30-37|France</item>
+		<item>380|Bulgaria</item>
+		<item>383|Slovenia</item>
+		<item>385|Croatia</item>
+		<item>387|Bosnia-Herzegowina</item>
+		<item>400-440|Germany</item>
+		<item>45+49|Japan</item>
+		<item>460-469|Russia</item>
+		<item>471|Taiwan</item>
+		<item>474|Estonia</item>
+		<item>475|Latvia</item>
+		<item>476|Aserbeidjan</item>
+		<item>477|Lithuania</item>
+		<item>478|Usbekistan</item>
+		<item>479|Sri Lanka</item>
+		<item>480|Philippines</item>
+		<item>481|Belorussia</item>
+		<item>482|Ukraine</item>
+		<item>484|Moldawien</item>
+		<item>485|Armenien</item>
+		<item>486|Georgien</item>
+		<item>487|Kazakhstans</item>
+		<item>489|Hong Kong</item>
+		<item>50|Great Britain</item>
+		<item>520|Greece</item>
+		<item>528|Lebanons</item>
+		<item>529|Cyprus</item>
+		<item>531|Macedonians</item>
+		<item>535|Maltas</item>
+		<item>539|Ireland</item>
+		<item>54|Belgium and Luxembourg</item>
+		<item>560|Portugal</item>
+		<item>569|Iceland</item>
+		<item>57|Denmark</item>
+		<item>590|Poland</item>
+		<item>594|Rumania</item>
+		<item>599|Hungary</item>
+		<item>600+601|South Africa</item>
+		<item>608|Bahrein</item>
+		<item>609|Mauritius</item>
+		<item>611|Morocco</item>
+		<item>613|Algeria</item>
+		<item>616|Kenya</item>
+		<item>619|Tunisia</item>
+		<item>621|Syria</item>
+		<item>622|Egypt</item>
+		<item>625|Jordan</item>
+		<item>626|Irans</item>
+		<item>624|Lybien</item>
+		<item>627|Kuwait</item>
+		<item>628|Saudi-Arabien</item>
+		<item>629|United Arab Emirates</item>
+		<item>64|Finland</item>
+		<item>690-695|China</item>
+		<item>70|Norway</item>
+		<item>729|Israels</item>
+		<item>73|Sweden</item>
+		<item>740-745|Central America (Guatemala, el Salvador, Honduras, Nicaragua, Costa Rica, Panama)</item>
+		<item>746|Dominican Republic</item>
+		<item>750|Mexico</item>
+		<item>759|Venezuelas</item>
+		<item>76|Switzerland and Liechtenstein</item>
+		<item>770|Colombia</item>
+		<item>773|Uruguay</item>
+		<item>775|Peru</item>
+		<item>777|Bolivia</item>
+		<item>779|Argentina</item>
+		<item>780|Chile</item>
+		<item>784|Paraguay</item>
+		<item>786|Ecuador</item>
+		<item>789-790|Brazil</item>
+		<item>80-83|Italy</item>
+		<item>84|Spain</item>
+		<item>850|Cuba</item>
+		<item>858|Slovakia</item>
+		<item>859|Czech Republic</item>
+		<item>860|Yugoslavia</item>
+		<item>867|Nord-Korea</item>
+		<item>869|Turkey</item>
+		<item>87|Netherlands</item>
+		<item>880|South Korea</item>
+		<item>885|Thailand</item>
+		<item>888|Singapore</item>
+		<item>890|India</item>
+		<item>893|Vietnam</item>
+		<item>899|Indonesia</item>
+		<item>90+91|Austria</item>
+		<item>93|Australia</item>
+		<item>94|New Zealand</item>
+		<item>955|Malaysia</item>
+		<item>958|Makao</item>
+		<item>977|Magazines (ISSN)</item>
+		<item>978-979|Bücher (ISBN)</item>
+		<item>979|Books (ISBN)</item>
+		<item>980-99|voucher codes</item>
+
+	</string-array>
+
+
+
+
+
+
+
+
+</resources>

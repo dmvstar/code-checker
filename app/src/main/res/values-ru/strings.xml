@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UA Котрольные суммы</string>
+    <string name="button_calculate">Рассчитать</string>
+    <string name="edit_sex">Нет</string>
+    <string name="label_check">Введите значение:</string>
+    <string name="label_control_is">Контроль:</string>
+    <string name="label_control_must">, должен быть:</string>
+    <string name="label_date_of_birth">Дата рождения:</string>
+    <string name="label_select_checker">Выберите тип проверки:</string>
+    <string name="label_sex">Пол:</string>
+    <string name="label_check_inn">Введите ИНН:</string>
+    <string name="label_check_mfo">Введите МФО:</string>
+    <string name="label_check_tax">Введите ОКПО:</string>
+    <string name="label_check_ean_country">Страна:</string>
+    <string name="label_check_ean">Введите Штрих код:</string>
+    <string name="label_check_acc">Введите Счет:</string>
+    <string name="menu_about">Про ...</string>
+    <string name="text_country_unknown">Неопределено</string>
+
+    <string name="about_title">Про ...</string>
+    <string name="version_info">Вер.:</string>
+    <string name="about_info">Программа ...</string>
+    <string name="about_author_info">Автор:</string>
+    <string name="donate_info">Пожертвовать ... дайте мне деньги, пожалуйста ...</string>
+    <string name="hint_of_day">Подсказочка ...</string>
+
+</resources>

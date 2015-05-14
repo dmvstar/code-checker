@@ -1,0 +1,36 @@
+<resources>
+
+    <string name="app_name">UA Code checker</string>
+
+    <string name="label_select_checker">Select Check type :</string>
+    <string name="label_check">Enter Check value :</string>
+    <string name="label_check_inn">Enter Check value :</string>
+    <string name="label_check_mfo">Enter Check MFO :</string>
+    <string name="label_check_acc">Enter Check Account :</string>
+    <string name="button_calculate">Calculate</string>
+
+    <string name="label_date_of_birth">Date of birth :</string>
+    <string name="label_sex">Gender :</string>
+
+    <string name="label_control_is">Control digit is:</string>
+    <string name="label_control_must">, must be:</string>
+
+    <string name="edit_date_of_birth" translatable="false">00.00.0000</string>
+    <string name="edit_sex">None</string>
+    <string name="label_check_tax">Enter TAX code:</string>
+    <string name="label_check_ean">Check EAN code :</string>
+    <string name="label_check_ean_country">EAN country</string>
+    <string name="menu_about">About ...</string>
+    <string name="text_country_unknown">Unknown</string>
+
+    <string name="hint_of_day">Hint of day ...</string>
+    <string name="about_title">About ...</string>
+    <string name="version_info">Ver. :</string>
+    <string name="version_num" translatable="false">1.0.2</string>
+    <string name="about_info">This program ...</string>
+    <string name="about_author_info">Author:</string>
+    <string name="about_author_name" translatable="false">dmvstar</string>
+    <string name="donate_info">Donate pleas ...</string>
+
+
+</resources>

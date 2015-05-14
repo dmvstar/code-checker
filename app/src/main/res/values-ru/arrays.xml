@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="list_gender">
+        <item>Муж.</item>
+        <item>Жен.</item>
+    </string-array>
+
+    <string-array name="list_codes">
+        <item>ИНН  (Инд. код плательщика)</item>
+        <item>МФО  (Код банка)</item>
+        <item>Счет (Счет в банке)</item>
+        <item>ОКПО (Код регистрации)</item>
+        <item>EAN  (Штрихкод товара)</item>
+    </string-array>
+
+
+    <string-array name="ean_country_list_add">
+        <item>93|au|Австралия|EAN Australia</item>
+        <item>90+91|at|Австрия|EAN Austria</item>
+        <item>476|az|Азербайджан|EAN Azerbaijan</item>
+        <item>613|dz|Алжир|EAN Algeria</item>
+        <item>779|ar|Аргентина|CODIGO - EAN Argentina</item>
+        <item>485|am|Армения|EAN Armenia</item>
+        <item>608|bh|Бахрейн|Bahrein</item>
+        <item>481|by|Беларусь|EAN Belarus</item>
+        <item>54|be|Бельгия, Люксембург|ICODIF/EAN Belgium.Luxembourg</item>
+        <item>380|bg|Болгария|BCCI (Bulgaria)</item>
+        <item>777|bo|Боливия|EAN Bolivia</item>
+        <item>387|ba|Босния и Герцеговина|EAN-BIH (Bosnia-Herzegovina)</item>
+        <item>789|br|Бразилия|EAN Brazil</item>
+        <item>978+979|zz|Брошюры|Bucher (ISBN)</item>
+        <item>980-990|zz|Ваучеры|voucher codes</item>
+        <item>50|gb|Великобритания|E Centre UK</item>
+        <item>599|hu|Венгрия|EAN Hungary</item>
+        <item>759|ve|Венесуэла|EAN Venezuela</item>
+        <item>20-29|xx|Внутренние коды|Internal use</item>
+        <item>893|vn|Вьетнам|EAN Vietnam</item>
+        <item>740|gt|Гватемала|EAN Guatemala</item>
+        <item>400-440|de|Германия|CCG (Germany)</item>
+        <item>742|hn|Гондурас|EAN Honduras</item>
+        <item>489|hk|Гонконг|HKANA (Hong Kong)</item>
+        <item>520|gr|Греция|HELLCAN - EAN HELLAS (Greece)</item>
+        <item>486|ge|Грузия|EAN Georgia</item>
+        <item>57|dk|Дания|EAN Danmark</item>
+        <item>746|do|Доминиканская Республика|EAN Republica Dominicana</item>
+        <item>622|eg|Египет|EAN Egypt</item>
+        <item>729|il|Израиль|Israeli Bar Code Association - EAN Israel</item>
+        <item>890|in|Индия|EAN India</item>
+        <item>899|id|Индонезия|EAN Indonesia</item>
+        <item>625|jo|Иордания|EAN Jordan</item>
+        <item>626|iq|Иран|EAN Iran</item>
+        <item>539|ir|Ирландия|EAN Ireland</item>
+        <item>569|is|Исландия|EAN Iceland</item>
+        <item>84|es|Испания|AECOC (Spain)</item>
+        <item>80-83|it|Италия|INDICOD (Italy)</item>
+        <item>487|kz|Казахстан|EAN Kazakhstan</item>
+        <item>616|ke|Кения|EAN Kenya</item>
+        <item>529|cy|Кипр|EAN Cyprus</item>
+        <item>690-693|cn|Китай|Article Numbering Centre of China - ANCC (China)</item>
+        <item>979|zz|Книги|</item>
+        <item>770|co|Колумбия|IAC (Colombia)</item>
+        <item>744|cr|Коста-Рика|EAN Costa Rica</item>
+        <item>850|cu|Куба|Camera de Comercio de la Republica de Cuba (Cuba)</item>
+        <item>627|kw|Кувейт|EAN Kuwait</item>
+        <item>475|lv|Латвия|EAN Latvia</item>
+        <item>528|lb|Ливан|EAN Lebanon</item>
+        <item>624|ly|Ливия|EAN Libya</item>
+        <item>477|lt|Литва|EAN Lithuania</item>
+        <item>609|mu|Маврикий|EAN Mauritius</item>
+        <item>977||Магазины|</item>
+        <item>958|mo|Макао|EAN Macau</item>
+        <item>531|mk|Македония|EAN-MAC (FYR Macedonia)</item>
+        <item>955|my|Малайзия|Malaysian Article Numbering Council (MANC)</item>
+        <item>535|mt|Мальта|EAN Malta</item>
+        <item>611|ma|Марокко|EAN Maroc (Marocco)</item>
+        <item>750|mx|Мексика|AMECE (Mexico)</item>
+        <item>484|md|Молдова|EAN Moldova</item>
+        <item>87|nl|Нидерланды|EAN Nederland (Netherlands)</item>
+        <item>743|ni|Никарагуа|EAN Nikaragua</item>
+        <item>94|nz|Новая Зеландия|EAN New Zealand</item>
+        <item>70|no|Норвегия|EAN Norge (Norway)</item>
+        <item>629|ae|Объединенные Арабские Эмираты|EAN Emirates</item>
+        <item>745|pa|Панама|EAN Panama</item>
+        <item>784|py|Парагвай|EAN Paraguay</item>
+        <item>775|pe|Перу|EAN Peru</item>
+        <item>590|pl|Польша|EAN Poland</item>
+        <item>560|pt|Португалия|CODIPOR (Portugal)</item>
+        <item>460-469|ru|Россия|UNISCAN / EAN RUSSIA (Russian Federation)</item>
+        <item>594|ro|Румыния|EAN Romania</item>
+        <item>741|sv|Сальвадор|EAN El Salvador</item>
+        <item>628|sa|Саудовская Аравия|EAN Saudi Arabia</item>
+        <item>867|kr|Северная Корея|EAN DPR Korea (North Korea)</item>
+        <item>888|sg|Сингапур|SANC (Singapore)</item>
+        <item>621|sy|Сирия|EAN Syria</item>
+        <item>858|sk|Словакия|EAN Slovakia</item>
+        <item>383|si|Словения|EAN Slovenia</item>
+        <item>00-13|us|США и Канада|UCC (U.S.A. - Canada)</item>
+        <item>471|tw|Тайвань|EAN Taiwan</item>
+        <item>885|th|Таиланд|EAN Thailand</item>
+        <item>619|tn|Тунис|TUNICODE (Tunisia)</item>
+        <item>869|tr|Турция|Union of Chambers of Commerce of Turkey (Turkey)</item>
+        <item>478|uz|Узбекистан|EAN Uzbekistan</item>
+        <item>482|ua|Украина|EAN Ukraine</item>
+        <item>773|uy|Уругвай|EAN Uruguay</item>
+        <item>480|ph|Филиппины|PANC (Philippines)</item>
+        <item>64|fi|Финляндия|EAN Finland</item>
+        <item>30-37|fr|Франция|GENCOD-EAN France</item>
+        <item>385|hr|Хорватия|EAN Croatia</item>
+        <item>859|cz|Чехия|EAN Czech</item>
+        <item>780|cl|Чили|EAN Chile</item>
+        <item>76|ch|Швейцария|EAN (Schweiz, Suisse, Svizzera)</item>
+        <item>73|se|Швеция|EAN Sweden</item>
+        <item>479|lk|Шри-Ланка|EAN Sri Lanka</item>
+        <item>786|ec|Эквадор|ECOP (Ecuador)</item>
+        <item>474|ee|Эстония|EAN Eesti (Estonia)</item>
+        <item>860|yu|Югославия|EAN YU (Yugoslavia)</item>
+        <item>600+601|za|Южная Африка|EAN South Africa</item>
+        <item>880|kr|Южная Корея|EAN Korea (South Korea)</item>
+        <item>45-49|jp|Япония|Distribution Code Center - DCC (Japan)</item>
+    </string-array>
+
+
+
+</resources>
