@@ -2,6 +2,7 @@ package net.sf.dvstar.uacodecheck.activity;
 
 import android.app.Activity;
 import android.app.AlertDialog;
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
@@ -24,9 +25,12 @@ public class AboutActivity  extends Activity {
         AlertDialog.Builder dlgAlert  = new AlertDialog.Builder(this);
         dlgAlert.setMessage(getResources().getString(R.string.donate_info));
         dlgAlert.setTitle(getResources().getString(R.string.app_name));
-        dlgAlert.setPositiveButton( getResources().getString(android.R.string.ok), null);
+        dlgAlert.setPositiveButton(getResources().getString(android.R.string.ok), null);
         dlgAlert.setCancelable(true);
         dlgAlert.create().show();
+
+        Intent intent = new Intent(this, DonationsActivity.class);
+        this.startActivity(intent);
     }
 
 }
