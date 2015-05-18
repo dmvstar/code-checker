@@ -21,12 +21,13 @@
 
     <string name="about_title">Про ...</string>
     <string name="version_info">Вер.:</string>
-    <string name="about_info">Программа ... \nДля рассчета и проверки контрольных разрядов ИНН, МФО, Счета, ОКПО и Штрих кода.</string>
+    <string name="about_info">Приложение ... \nДля рассчета и проверки контрольных разрядов ИНН, МФО, Счета, ОКПО и Штрих кода.</string>
     <string name="about_author_info">Автор:</string>
     <string name="donate_info">Пожертвовать ... дайте мне деньги, пожалуйста ...</string>
     <string name="hint_of_day">Подсказочка ...</string>
     <string name="about_author_site">Сайтик:</string>
     <string name="about_author_site_url">https://github.com/dmvstar/code-checker</string>
     <string name="about_author_site_url1"><a href="https://github.com/dmvstar/code-checker">code-checker на GitHub</a></string>
+    <string name="donation_paypal_item">Пожертвовать</string>
 
 </resources>

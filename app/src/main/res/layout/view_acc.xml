@@ -84,6 +84,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageView5"
         android:layout_gravity="center_horizontal"
+        android:onClick="onCalculateClick"
         android:src="@drawable/folder_invoices" />
 
 </LinearLayout>

@@ -5,6 +5,8 @@ import android.view.GestureDetector;
 import android.view.MotionEvent;
 import android.widget.Toast;
 
+import net.sf.dvstar.uacodecheck.utils.Utils;
+
 /**
  * Created by dstarzhynskyi on 14.05.2015.
  */
@@ -57,12 +59,12 @@ public class OnSwipeGestureListener implements GestureDetector.OnGestureListener
     }
 
     private void onSwipeLeft() {
-        Toast.makeText(mContext, "Swipe Left", Toast.LENGTH_SHORT).show();
+        Utils.showDebugToast(mContext,"Swipe Left");
         mCallback.onSwipeLeft();
     }
 
     private void onSwipeRight() {
-        Toast.makeText(mContext, "Swipe Right", Toast.LENGTH_SHORT).show();
+        Utils.showDebugToast(mContext,"Swipe Right");
         mCallback.onSwipeRight();
     }
 

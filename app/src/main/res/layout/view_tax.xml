@@ -64,6 +64,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageView6"
         android:layout_gravity="center_horizontal"
+        android:onClick="onCalculateClick"
         android:src="@drawable/fabrik" />
 
 </LinearLayout>

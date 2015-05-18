@@ -108,6 +108,8 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageView3"
         android:layout_gravity="center_horizontal"
-        android:src="@drawable/person_1" />
+        android:src="@drawable/person_1"
+        android:onClick="onCalculateClick"
+        android:contentDescription="ImageINN" />
 
 </LinearLayout>

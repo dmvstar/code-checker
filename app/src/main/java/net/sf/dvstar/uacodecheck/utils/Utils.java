@@ -7,7 +7,7 @@ import android.widget.Toast;
  * Created by dstarzhynskyi on 13.05.2015.
  */
 public class Utils {
-    private static boolean debug = true;
+    private static boolean debug = false;
 
     public static void showDebugToast(Context baseContext, String message) {
         if(debug)

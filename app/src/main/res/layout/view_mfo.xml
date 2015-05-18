@@ -65,6 +65,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/imageView4"
         android:layout_gravity="center_horizontal"
+        android:onClick="onCalculateClick"
         android:src="@drawable/bank" />
 
 </LinearLayout>
